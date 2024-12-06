@@ -1,5 +1,5 @@
 // Deno Deploy 版本
-const ASSET_URL = 'https://profound-gaufre-eb744c.netlify.app/';
+const ASSET_URL = 'https://gh-proxy.netlify.app/';
 // 前缀，如果自定义路由为 example.com/gh/*，将 PREFIX 改为 '/gh/'，注意，少一个杠都会错！
 const PREFIX = '/';
 // 分支文件使用 jsDelivr 镜像的开关，0 为关闭，默认关闭
