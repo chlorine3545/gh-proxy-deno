@@ -1,6 +1,6 @@
 # GitHub Proxy Deno
 
-这是一个 GitHub Release 和 Archive 等的加速项目，可部署于 [Deno Playground](https://deno.dev) 上。项目的源代码来自 [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy)。
+这是一个 GitHub Release 和 Archive 等的加速项目，可部署于 [Deno Playground](https://deno.dev) 上。项目后端的源代码来自 [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy)。
 
 > [!Warning]
 >
@@ -17,16 +17,6 @@
 - 使用 GitHub 登录 [Deno Dev](https://deno.dev) 平台。
 - 点击 New Playground（**注意不是 New Project**）按钮，创建一个新的 Playground。
 - 将本项目的 `main.ts` 复制下来，粘贴到 Playground 编辑器中，点击部署即可。
-
-## FAQ
-
-**Q：有示例站点吗？**
-
-A：有，看侧边栏。不过我还是建议自己部署一个，也不费劲。而且我的免费计划就那么点额度，也没什么薅羊毛的价值。
-
-**Q：UI 和原项目为什么不一样？**
-
-A：这个原型是我用 v0 搓的，然后自己改了很多样式。源码在[这里](https://github.com/chlorine3545/gh-proxy-frontend)。
 
 ## Acknowledgments
 
